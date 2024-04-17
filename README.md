@@ -31,12 +31,12 @@
 
 - Screenshots showing usage of this project 
 
-![Screenshot showing the application open](.Main/images/screenshot1.png)
-![Screenshot showing user login email and password inputs](./Main/images/screenshot2.png)
-![Screenshot showing user contact information on page](./Main/images/screenshot3.png)
-![Screenshot showing user assignment submissions](./Main/images/screenshot4.png)
-![Screenshot showing an image selected by the user uploaded, which matces the file extension](./Main/images/screenshot5.png)
-![Screenshot showing an error message and custom message because the file extension does not meet the requirements](./Main/images/screenshot6.png)
+![Screenshot showing the application open](./images/screenshot1.png)
+![Screenshot showing user login email and password inputs](./images/screenshot2.png)
+![Screenshot showing user contact information on page](./images/screenshot3.png)
+![Screenshot showing user assignment submissions](./images/screenshot4.png)
+![Screenshot showing an image selected by the user uploaded, which matces the file extension](./images/screenshot5.png)
+![Screenshot showing an error message and custom message because the file extension does not meet the requirements](./images/screenshot6.png)
 
 ## License 
 
